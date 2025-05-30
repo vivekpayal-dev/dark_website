@@ -9713,3 +9713,16 @@ html .ui-button.ui-state-disabled:active {
 .cs_dark .cs_shape_animation_3 .cs_shape_1 .anio_3_c_1 {
   fill: #171717;
 } /*# sourceMappingURL=style.css.map */
+
+
+ .language-menu {
+          top: 50%;
+          right: 22px;
+          transform: translateY(-50%);
+          cursor: pointer;
+        }
+
+        .lang-btn {
+          border: none;
+          background-color: transparent;
+        }
