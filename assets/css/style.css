@@ -4317,7 +4317,7 @@ hr {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  height: 90px;
+  height: 100px;
   position: relative;
 }
 .cs_site_header.cs_style_1 .cs_main_header_right {
@@ -4433,7 +4433,7 @@ hr {
   display: inline-block;
 }
 .cs_site_branding img {
-  max-height: 190px;
+  max-width: 200px;
 }
 .footer-logo img{
       max-width: 145px;
@@ -7955,7 +7955,7 @@ hr {
   background-size: 100% 3px;
 }
 .cs_team_img {
-  height: 240px;
+  height: 300px;
   display: block;
 }
 .count-box{
@@ -9716,9 +9716,7 @@ html .ui-button.ui-state-disabled:active {
 
 
  .language-menu {
-          top: 50%;
-          right: 22px;
-          transform: translateY(-50%);
+
           cursor: pointer;
         }
 
